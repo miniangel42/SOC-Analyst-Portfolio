@@ -1,5 +1,5 @@
 
-# Threat Intelligence — Bloody Wolf / NetSupport RAT
+# Threat Intelligence — Bloody Wolf
 
 ## Project Overview
 
