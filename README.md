@@ -17,16 +17,16 @@ Completed cybersecurity training at OneSec and currently pursuing the Hack The B
 
 ## Cybersecurity Projects
 
-### 1. SIEM Log Analysis | Wazuh
+### 1. SIEM Log Analysis 
 Investigated security alerts from Linux and Windows systems, identifying Shellshock exploitation, SQL injection, PowerShell abuse, and suspicious credential-access tooling.
 
-### 2. Network Traffic Analysis | Wireshark
+### 2. Network Traffic Analysis 
 Analyzed PCAP evidence to identify network reconnaissance, web application attacks, reverse-shell activity, and potential credential exposure.
 
-### 3. Digital Forensics | Linux
+### 3. Digital Forensics 
 Investigated a compromised Linux workstation and identified five attacker persistence mechanisms, including cron jobs, Bash configuration modifications, and udev rules.
 
-### 4. Threat Intelligence | NetSupport RAT
+### 4. Threat Intelligence
 Researched the Bloody Wolf threat actor and its NetSupport RAT campaign targeting Central Asia, documenting TTPs, indicators of compromise, and MITRE ATT&CK techniques.
 
 ## Current Learning
