@@ -42,6 +42,7 @@ The investigation focused on suspicious activity affecting a Linux web server an
 SIEM Monitoring | Alert Triage | Log Analysis |
 Incident Response | Threat Detection | Security Reporting
 
+
 ## Full Report
 
-The complete Incident Response Report is available in this project folder.
+[View Full Incident Response Report (PDF)](./Incident-Response-Report.pdf)
