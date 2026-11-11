@@ -45,4 +45,4 @@ Incident Response | Threat Detection | Security Reporting
 
 ## Full Report
 
-[View Full Incident Response Report (PDF)](./Incident-Response-Report.pdf)
+[View Full Incident Response Report (PDF)](./FZTD%202.0%20SIEM%20Log%20Analysis%20-%20Incident%20Response%20Report.pdf)
