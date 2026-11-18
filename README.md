@@ -44,7 +44,7 @@ Researched the Bloody Wolf threat actor and its NetSupport RAT campaign targetin
 
 ## Featured Projects
 
-1. [SIEM Log Analysis — Wazuh](./01-SIEM-Wazuh)
+1. [SIEM Log Analysis — Wazuh](./01-SIEM)
 2. [Network Traffic Analysis — Wireshark](./02-Network-Traffic-Analysis)
 3. [Digital Forensics — Linux](./03-Digital-Forensics)
 4. [Threat Intelligence — Bloody Wolf](./04-Threat-Intelligence)
